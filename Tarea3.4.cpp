@@ -1,22 +1,22 @@
-/* * Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 19/02/2022
+/* * Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 19/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de ciclos en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de ciclos en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
  
     -Variables enteras y flotantes
     -rintf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librer韆s
+    -El uso de include para las librer铆as
     -Ciclos
     -Contador
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 */
 #include<stdio.h>
 int main() {
-	//Delcaraci髇 de variables
+	//Delcaraci贸n de variables
 	float  nota, media=0, suma=0;
 	int  notes, i=1;
 	//Proceso
